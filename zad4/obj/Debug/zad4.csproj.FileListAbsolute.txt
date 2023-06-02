@@ -1,0 +1,43 @@
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\bin\Debug\zad4.exe.config
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\bin\Debug\zad4.exe
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\bin\Debug\zad4.pdb
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\obj\Debug\zad4.Properties.Resources.resources
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\obj\Debug\zad4.csproj.GenerateResource.cache
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\obj\Debug\zad4.exe
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\obj\Debug\zad4.pdb
+F:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\obj\Debug\zad4.Form1.resources
+f:\Studia\Semestr 6\OSK\Zad 4\zad4\zad4\obj\Debug\zad4.NoweOkno.resources
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\bin\Debug\zad4.exe.config
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\bin\Debug\zad4.exe
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\bin\Debug\zad4.pdb
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.csprojAssemblyReference.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.Form1.resources
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.NoweOkno.resources
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.Properties.Resources.resources
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.csproj.GenerateResource.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.exe
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.pdb
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\bin\Debug\zad4.exe.manifest
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\bin\Debug\zad4.application
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.exe.manifest
+C:\Users\route\Desktop\Studia\sem 6\Organizacja Systemów Komputerowych - laboratorium\projekt 4\zad4\zad4\obj\Debug\zad4.application
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\bin\Debug\zad4.exe.config
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\bin\Debug\zad4.exe.manifest
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\bin\Debug\zad4.application
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\bin\Debug\zad4.exe
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\bin\Debug\zad4.pdb
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.csproj.SuggestedBindingRedirects.cache
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.NoweOkno.resources
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.Properties.Resources.resources
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.csproj.GenerateResource.cache
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.exe.manifest
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.application
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.exe
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.pdb
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.LiniaProdukcyjna.resources
+C:\Users\olakr\OneDrive\Pulpit\liniaPro_Kacper\zad4\obj\Debug\zad4.Obecnosc.resources
